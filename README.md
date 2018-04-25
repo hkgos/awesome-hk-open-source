@@ -1,4 +1,4 @@
-# Awesome-HK-open-source
+# awesome-hk-open-source
 在此會收集香港開發者的 Open Source。有興趣加入你的 repo 請在 issues 留言並加入註明。
 
 
