@@ -20,6 +20,7 @@ coming soon
 
 ## Javascript
 * [LIHKG Vue.js 版](https://github.com/colloquet/lihkg-web) - 用 Vue.js 寫既 LIHKG client
+* [add9u](https://github.com/andrewmmc/add9u) - 用 vue.js 寫既簡單野, 方便唔洗add 陌生人落phonebook 底下加人 whatsapp
 
 
 ## VSCode Extension
