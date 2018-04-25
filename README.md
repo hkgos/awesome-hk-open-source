@@ -3,8 +3,8 @@
 
 
 ## 格式(暫定)
-Repository名稱
-URL
-語言
-用途分類
-簡介
+* Repository名稱
+* URL
+* 語言
+* 用途分類
+* 簡介
