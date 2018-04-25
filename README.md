@@ -17,3 +17,6 @@ coming soon
 
 ## PHP
 [中文亂文隨機生成器](https://github.com/cytsunny/randChinese) - 隨機生成測試用的中文正體字。
+
+## Javascript
+[LIHKG Vue.js 版](https://github.com/colloquet/lihkg-web) - 用 Vue.js 寫既 LIHKG client
