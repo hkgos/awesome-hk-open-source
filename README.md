@@ -8,3 +8,12 @@
 * 語言
 * 用途分類
 * 簡介
+
+## 用途分類
+coming soon
+
+## 語言分類
+coming soon
+
+## PHP
+[中文亂文隨機生成器](https://github.com/cytsunny/randChinese) - 隨機生成測試用的中文正體字。
