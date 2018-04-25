@@ -20,3 +20,8 @@ coming soon
 
 ## Javascript
 [LIHKG Vue.js 版](https://github.com/colloquet/lihkg-web) - 用 Vue.js 寫既 LIHKG client
+
+
+## VSCode Extension
+[VSCode-Hungry-Delete](https://github.com/Jasonlhy/VSCode-Hungry-Delete) - 用嚟 Hungry Delete
+[VSCode-Browser-Sync](https://github.com/Jasonlhy/VSCode-Browser-Sync) - 用嚟 integrate browser sync
