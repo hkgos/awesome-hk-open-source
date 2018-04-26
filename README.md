@@ -36,5 +36,4 @@ coming soon
 ## 臨時孤兒領養區
 有巴打建議我們接手無人 maintance 的 project，暫時存放
 
-* [PHP-Endless-Battle](https://github.com/c0re100/PHP-Endless-Battle) - Web Gae 無盡的戰鬥
 * [golden-cache](https://github.com/mingchuno/golden-cache) - 以前高登好慢 cache 低用嚟上高登快啲
