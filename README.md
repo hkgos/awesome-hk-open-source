@@ -1,5 +1,5 @@
 # awesome-hk-open-source
-在此會收集香港開發者的 Open Source。有興趣加入你的 repo 請在 issues 留言並加入註明。
+在此會收集香港開發者的 Open Source。有興趣加入你的 repo 請在 [issues](https://github.com/hkgos/awesome-hk-open-source/issues/new) 留言並加入註明。
 
 
 ## 格式(暫定)
@@ -21,6 +21,8 @@ coming soon
 ## Javascript
 * [LIHKG Vue.js 版](https://github.com/colloquet/lihkg-web) - 用 Vue.js 寫既 LIHKG client
 * [add9u](https://github.com/andrewmmc/add9u) - 用 vue.js 寫既簡單野, 方便唔洗add 陌生人落phonebook 底下加人 whatsapp
+* [Let-s-Rand-imgur](https://github.com/kitce/Let-s-Rand-imgur) - 高登討論區/LIHKG 隨機抽imgur玩命工具
+* [Clipped.js](https://github.com/clippedjs/clipped) - 用preset的概念令用現有的配置比如Webpack在新的項目直接使用，並可以輕鬆作調整。
 
 
 ## VSCode Extension
