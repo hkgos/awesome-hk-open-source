@@ -23,6 +23,9 @@ coming soon
 * [add9u](https://github.com/andrewmmc/add9u) - 用 vue.js 寫既簡單野, 方便唔洗add 陌生人落phonebook 底下加人 whatsapp
 * [Let-s-Rand-imgur](https://github.com/kitce/Let-s-Rand-imgur) - 高登討論區/LIHKG 隨機抽imgur玩命工具
 * [Clipped.js](https://github.com/clippedjs/clipped) - 用preset的概念令用現有的配置比如Webpack在新的項目直接使用，並可以輕鬆作調整。
+* [econ-mc-ans-checker](https://github.com/benchan1997/econ-mc-ans-checker) - Econ MC Answer 檢查工具
+* [gmap-leaflet](https://github.com/benchan1997/gmap-leaflet) - 用 leaflet.js 黎寫既巨商地圖
+* [big2-client](https://github.com/colloquet/big2-client) - 鋤DEE A/B 網上對戰 Client
 
 
 ## VSCode Extension
