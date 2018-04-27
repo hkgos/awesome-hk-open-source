@@ -32,6 +32,8 @@ coming soon
 * [VSCode-Hungry-Delete](https://github.com/Jasonlhy/VSCode-Hungry-Delete) - 用嚟 Hungry Delete
 * [VSCode-Browser-Sync](https://github.com/Jasonlhy/VSCode-Browser-Sync) - 用嚟 integrate browser sync
 
+## Ruby On Rails
+* [mongoid-gitifield](https://github.com/Seitk/mongoid-gitifield) - 令Mongoid既field可以變成一個真既git repository去做versioning
 
 ## 臨時孤兒領養區
 有巴打建議我們接手無人 maintance 的 project，暫時存放
