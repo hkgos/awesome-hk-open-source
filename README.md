@@ -7,6 +7,7 @@
 * 語言
 * 用途分類
 * 簡介
+* License
 
 ## 用途分類
 coming soon
