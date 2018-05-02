@@ -32,6 +32,9 @@
 * [econ-mc-ans-checker](https://github.com/benchan1997/econ-mc-ans-checker) - Econ MC Answer 檢查工具
 * [gmap-leaflet](https://github.com/benchan1997/gmap-leaflet) - 用 leaflet.js 黎寫既巨商地圖
 * [big2-client](https://github.com/colloquet/big2-client) - 鋤DEE A/B 網上對戰 Client
+* [Spacecraft](https://github.com/Pong420/Spacecraft) - socket.io 整既game prototype , 電腦browser 做screen，然後手機做touch pad
+* [html5-gamepad-detector](https://github.com/hkgoldenmra/html5-gamepad-detector) - html5 gamepad detector 可以係browser到show返你撳緊手掣上面既咩制
+* [html2md](https://github.com/benchan1997/html2md) - html 轉 markdown 既小工具
 
 ## Kotlin
 * [ToggleEditTextView](https://github.com/Camerash/ToggleEditTextView) - 無縫切換TextView與EditText，並自帶可以控制多個ToggleEditTextView的動態按鈕
