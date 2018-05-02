@@ -61,7 +61,7 @@
 
 
 ## OS
-* [SillyOS](https://github.com/GarbageCollections/SillyOS）- Attempting to create an modular operating system from scratch.
+* [SillyOS](https://github.com/GarbageCollections/SillyOS) - Attempting to create an modular operating system from scratch.
 
 
 ## VSCode Extension
