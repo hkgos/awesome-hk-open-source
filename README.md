@@ -51,6 +51,7 @@
 
 # PHP
 * [中文亂文隨機生成器](https://github.com/cytsunny/randChinese) - 隨機生成測試用的中文正體字。
+* [Commerce Paydollar](https://www.drupal.org/project/commerce_paydollar) - 用於 Drupal 7 (Drupal Commerce) 的 PayDollar Payment Gateway 模組。
 
 
 # Python
@@ -63,6 +64,9 @@
 
 # OS
 * [SillyOS](https://github.com/GarbageCollections/SillyOS) - Attempting to create an modular operating system from scratch.
+
+# 輸入法
+* [快速倉頡輸入法](https://github.com/scj2000/scj-tables) - 快速倉頡輸入法是優化傳統倉頡輸入法的成果。它是編碼較短及規則簡單的其中一種輸入法。快速倉頡第六代除了沿用第五代的編碼方式外，加入了「速成」及「廣東拼音」輸入法的編碼，增設更多容錯碼及更多功能。
 
 
 # VSCode Extension
