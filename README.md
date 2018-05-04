@@ -73,3 +73,6 @@
 # 臨時孤兒領養區
 有巴打建議我們接手無人 maintance 的 project，暫時存放
 * [golden-cache](https://github.com/mingchuno/golden-cache) - 用來作舊高登網站的cache。
+
+# 免責聲明
+本頁列出的 source 只供參考，如有任何侵權行為需要移除內容，請與我們聯絡，我們會盡快處理。
