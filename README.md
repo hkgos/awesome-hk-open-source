@@ -24,7 +24,7 @@
 * [臨時孤兒領養區](https://github.com/hkgos/awesome-hk-open-source#%E8%87%A8%E6%99%82%E5%AD%A4%E5%85%92%E9%A0%98%E9%A4%8A%E5%8D%80)
 
 ## C++
-* [Brainofuck](https://github.com/GarbageCollections/Brainofuck) - Brainfuck interpreter on Arduino
+* [Brainofuck](https://github.com/GarbageCollections/Brainofuck) - Arduino版本的Brainfuck 直譯器。
 
 
 ## Go
@@ -63,7 +63,7 @@
 
 
 ## OS
-* [SillyOS](https://github.com/GarbageCollections/SillyOS) - Attempting to create an modular operating system from scratch.
+* [SillyOS](https://github.com/GarbageCollections/SillyOS) - 模組化作業系統的試作（開發中）
 
 ## 輸入法
 * [快速倉頡輸入法](https://github.com/scj2000/scj-tables) - 快速倉頡輸入法是優化傳統倉頡輸入法的成果。它是編碼較短及規則簡單的其中一種輸入法。快速倉頡第六代除了沿用第五代的編碼方式外，加入了「速成」及「廣東拼音」輸入法的編碼，增設更多容錯碼及更多功能。
