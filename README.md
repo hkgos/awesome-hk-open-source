@@ -29,6 +29,7 @@
 
 ## Go
 * [Go Graphql Starter](https://github.com/OscarYuen/go-graphql-starter) - 利用 graph-gophers/graphql-go 去寫成的 starter application，當中組合了 dataloader, custom middleware, database connection, authentication 等常用功能。
+* [gofast](https://github.com/yookoala/gofast) - 用 Go 實現 fastcgi 上 web server 角色的程式庫，可以用以編寫伺服器程式，透過 fastcgi 通訊協定，混用其他支援 fastcgi 的程式語言（如 php、python、nodejs）。
 
 
 ## Javascript
