@@ -43,7 +43,7 @@
 * [html5-gamepad-detector](https://github.com/hkgoldenmra/html5-gamepad-detector) - HTML5 gamepad detector 可以用 browser 查看 gamepad 上的按鍵。
 * [html2md](https://github.com/benchan1997/html2md) - 將 html 轉成 markdown 的小工具。
 * [app-icon-maker](https://github.com/longsangstan/app-icon-maker) - 用 React 寫的 iOS/Android App Icon 生成器。
-* [Centify](https://github.com/ivanhoe-dev/Centify) - Align HTML DOM的library，方便砌UI。
+* [Centify](https://github.com/ivanhoe-dev/Centify) - Align HTML DOM的library，方便建立UI。
 
 ## Kotlin
 * [ToggleEditTextView](https://github.com/Camerash/ToggleEditTextView) - 無縫切換 TextView 與 EditText，並自帶可以控制多個ToggleEditTextView 的動態按鈕。
