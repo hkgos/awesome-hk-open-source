@@ -45,6 +45,7 @@
 * [html2md](https://github.com/benchan1997/html2md) - 將 html 轉成 markdown 的小工具。
 * [app-icon-maker](https://github.com/longsangstan/app-icon-maker) - 用 React 寫的 iOS/Android App Icon 生成器。
 * [Centify](https://github.com/ivanhoe-dev/Centify) - Align HTML DOM的library，方便建立UI。
+* [Faviator](https://github.com/faviator/faviator) - 用 CLI 創造簡單 icons/favicons。
 
 ## Kotlin
 * [ToggleEditTextView](https://github.com/Camerash/ToggleEditTextView) - 無縫切換 TextView 與 EditText，並自帶可以控制多個ToggleEditTextView 的動態按鈕。
