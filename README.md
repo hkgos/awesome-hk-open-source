@@ -46,6 +46,7 @@
 * [app-icon-maker](https://github.com/longsangstan/app-icon-maker) - 用 React 寫的 iOS/Android App Icon 生成器。
 * [Centify](https://github.com/ivanhoe-dev/Centify) - Align HTML DOM的library，方便建立UI。
 * [Faviator](https://github.com/faviator/faviator) - 用 CLI 創造簡單 icons/favicons。
+* [Pear](https://github.com/dc198689/pear) - Base on Vue-cli，建立一個比較大 Scalable ，可重用的資料夾結構 Practice。
 
 ## Kotlin
 * [ToggleEditTextView](https://github.com/Camerash/ToggleEditTextView) - 無縫切換 TextView 與 EditText，並自帶可以控制多個ToggleEditTextView 的動態按鈕。
@@ -54,6 +55,7 @@
 ## PHP
 * [中文亂文隨機生成器](https://github.com/cytsunny/randChinese) - 隨機生成測試用的中文正體字。
 * [Commerce Paydollar](https://www.drupal.org/project/commerce_paydollar) - 用於 Drupal 7 (Drupal Commerce) 的 PayDollar Payment Gateway 模組。
+* [MediaFire-Stream-API](https://github.com/hklcf/MediaFire-Stream-API) - 提取 MediaFire 檔案的直連網址，影片檔案可於線上播放。
 
 
 ## Python
