@@ -48,6 +48,7 @@
 * [Centify](https://github.com/ivanhoe-dev/Centify) - Align HTML DOM的library，方便建立UI。[![GitHub stars](https://img.shields.io/github/stars/ivanhoe-dev/Centify.svg?style=social)](https://github.com/ivanhoe-dev/Centify/stargazers)
 * [Faviator](https://github.com/faviator/faviator) - 用 CLI 創造簡單 icons/favicons。[![GitHub stars](https://img.shields.io/github/stars/faviator/faviator.svg?style=social)](https://github.com/faviator/faviator/stargazers)
 * [Pear](https://github.com/dc198689/pear) - Base on Vue-cli，建立一個比較大 Scalable ，可重用的資料夾結構 Practice。[![GitHub stars](https://img.shields.io/github/stars/dc198689/pear.svg?style=social)](https://github.com/dc198689/pear/stargazers)
+* [hologram-image-upload](https://github.com/dollars0427/hologram-image-upload) - 基於React的圖片上傳工具，附帶圖片裁剪功能。[![GitHub stars](https://img.shields.io/github/stars/dollars0427/hologram-image-upload.svg?style=social)](https://github.com/dollars0427/hologram-image-upload/stargazers)
 
 ## Kotlin
 * [ToggleEditTextView](https://github.com/Camerash/ToggleEditTextView) - 無縫切換 TextView 與 EditText，並自帶可以控制多個ToggleEditTextView 的動態按鈕。[![GitHub stars](https://img.shields.io/github/stars/Camerash/ToggleEditTextView.svg?style=social)](https://github.com/Camerash/ToggleEditTextView/stargazers)
@@ -81,7 +82,7 @@
 
 ## 臨時孤兒領養區
 有巴打建議我們接手無人 maintance 的 project，暫時存放
-* [golden-cache](https://github.com/mingchuno/golden-cache) - 用來作舊高登網站的cache。
+* [golden-cache](https://github.com/mingchuno/golden-cache) - 用來作舊高登網站的cache。[![GitHub stars](https://img.shields.io/github/stars/mingchuno/golden-cache.svg?style=social)](https://github.com/mingchuno/golden-cache/stargazers)
 
 ## 免責聲明
 本頁列出的 source 只供參考，如有任何侵權行為需要移除內容，請與我們聯絡，我們會盡快處理。
