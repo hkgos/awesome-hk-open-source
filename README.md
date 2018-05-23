@@ -1,5 +1,5 @@
 # awesome-hk-open-source
-我們在此會收集香港開發者的 Open Source。有興趣加入你的 repo 請在 [issues](https://github.com/hkgos/awesome-hk-open-source/issues/new) 留言並加入註明。所有開發者加入 project 前記得加入 License 文件，不清楚應該使用邊隻 License 請參考[版權說明](https://github.com/hkgos/awesome-hk-open-source/blob/master/chooselicense.md)。
+我們在此會收集香港開發者的 Open Source。有興趣加入你的 repo 請在 [issues](https://github.com/hkgos/awesome-hk-open-source/issues/new) 留言並加入註明。所有開發者加入 project 前記得加入 License 文件，不清楚應該使用那種 License 請參考[版權說明](https://github.com/hkgos/awesome-hk-open-source/blob/master/chooselicense.md)。
 
 ## 提交 Repository 的格式參考
 * Repository 名稱
@@ -56,7 +56,7 @@
 * [中文亂文隨機生成器](https://github.com/cytsunny/randChinese) - 隨機生成測試用的中文正體字。
 * [Commerce Paydollar](https://www.drupal.org/project/commerce_paydollar) - 用於 Drupal 7 (Drupal Commerce) 的 PayDollar Payment Gateway 模組。
 * [MediaFire-Stream-API](https://github.com/hklcf/MediaFire-Stream-API) - 提取 MediaFire 檔案的直連網址，影片檔案可於線上播放。
-
+* [Facebook-Stream-API](https://github.com/hklcf/Facebook-Stream-API) - 提取 Facebook 影片檔案的直連網址，影片檔案可於線上播放。
 
 ## Python
 * [Profile picture generator](https://github.com/09milk/profile_picture_generator) - 基於 Python 的工具, 可用於大量產生 random profile picture。
