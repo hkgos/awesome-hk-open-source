@@ -35,7 +35,7 @@
 ## Javascript
 * [LIHKG Vue.js 版](https://github.com/colloquet/lihkg-web) - 基於 Vue.js 的 LIHKG client。 [![GitHub stars](https://img.shields.io/github/stars/colloquet/lihkg-web.svg?style=social)](https://github.com/colloquet/lihkg-web/stargazers)
 * [add9u](https://github.com/andrewmmc/add9u) - 基於 Vue.js，能夠在不新增用戶到聯絡人的情況下加人到 Whatsapp。[![GitHub stars](https://img.shields.io/github/stars/andrewmmc/add9u.svg?style=social)](https://github.com/andrewmmc/add9u/stargazers)
-* [Let-s-Rand-imgur](https://github.com/kitce/Let-s-Rand-imgur) - 高登討論區/LIHKG 隨機抽 imgur 玩命工具。[![GitHub stars](https://img.shields.io/github/stars/andrewmmc/add9u.svg?style=social)](https://github.com/andrewmmc/add9u/stargazers)
+* [Let-s-Rand-imgur](https://github.com/kitce/Let-s-Rand-imgur) - 高登討論區/LIHKG 隨機抽 imgur 玩命工具。[![GitHub stars](https://img.shields.io/github/stars/kitce/Let-s-Rand-imgur.svg?style=social)](https://github.com/kitce/Let-s-Rand-imgur/stargazers)
 * [Clipped.js](https://github.com/clippedjs/clipped) - 用 preset 的概念令用現有的配置比如 Webpack 在新的項目直接使用，並可以輕鬆作調整。
 [![GitHub stars](https://img.shields.io/github/stars/clippedjs/clipped.svg?style=social)](https://github.com/clippedjs/clipped/stargazers)
 * [econ-mc-ans-checker](https://github.com/benchan1997/econ-mc-ans-checker) - Econ MC Answer 檢查工具。[![GitHub stars](https://img.shields.io/github/stars/benchan1997/econ-mc-ans-checker.svg?style=social)](https://github.com/benchan1997/econ-mc-ans-checker/stargazers)
