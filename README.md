@@ -50,6 +50,7 @@
 * [Pear](https://github.com/dc198689/pear) - Base on Vue-cli，建立一個比較大 Scalable ，可重用的資料夾結構 Practice。[![GitHub stars](https://img.shields.io/github/stars/dc198689/pear.svg?style=social)](https://github.com/dc198689/pear/stargazers)
 * [hologram-image-upload](https://github.com/dollars0427/hologram-image-upload) - 基於React的圖片上傳工具，附帶圖片裁剪功能。[![GitHub stars](https://img.shields.io/github/stars/dollars0427/hologram-image-upload.svg?style=social)](https://github.com/dollars0427/hologram-image-upload/stargazers)
 * [Self Reload JSON](https://github.com/JLChnToZ/selfreloadjson) - 偵測指定的 JSON 檔有否被外部修改，每當被修改時自動重新讀取。[![GitHub stars](https://img.shields.io/github/stars/JLChnToZ/selfreloadjson.svg?style=social)](https://github.com/JLChnToZ/selfreloadjson/stargazers)
+* [react-with-traverse](https://github.com/kitce/react-with-traverse) - 對整個React component tree內每個最深層的string進行任何處理。[![GitHub stars](https://img.shields.io/github/stars/kitce/react-with-traverse.svg?style=social)](https://github.com/kitce/react-with-traverse/stargazers)
 
 ## Kotlin
 * [ToggleEditTextView](https://github.com/Camerash/ToggleEditTextView) - 無縫切換 TextView 與 EditText，並自帶可以控制多個ToggleEditTextView 的動態按鈕。[![GitHub stars](https://img.shields.io/github/stars/Camerash/ToggleEditTextView.svg?style=social)](https://github.com/Camerash/ToggleEditTextView/stargazers)
