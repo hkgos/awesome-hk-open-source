@@ -21,6 +21,7 @@
 ## 其他分類
 * [OS](https://github.com/hkgos/awesome-hk-open-source#os)
 * [VS Code Extension](https://github.com/hkgos/awesome-hk-open-source#vscode-extension)
+* [Company Source](https://github.com/hkgos/company-source)
 * [臨時孤兒領養區](https://github.com/hkgos/awesome-hk-open-source#%E8%87%A8%E6%99%82%E5%AD%A4%E5%85%92%E9%A0%98%E9%A4%8A%E5%8D%80)
 
 ## C++
@@ -82,6 +83,10 @@
 * [VSCode-Hungry-Delete](https://github.com/Jasonlhy/VSCode-Hungry-Delete) - 用於 Hungry Delete。[![GitHub stars](https://img.shields.io/github/stars/Jasonlhy/VSCode-Hungry-Delete.svg?style=social)](https://github.com/Jasonlhy/VSCode-Hungry-Delete/stargazers)
 * [VSCode-Browser-Sync](https://github.com/Jasonlhy/VSCode-Browser-Sync) - 用於 integrate browser sync。[![GitHub stars](https://img.shields.io/github/stars/Jasonlhy/VSCode-Browser-Sync.svg?style=social)](https://github.com/Jasonlhy/VSCode-Browser-Sync/stargazers)
 
+## Company source
+* [Gogovan](https://github.com/gogovan)
+* [Lalamove](https://github.com/lalamove)
+* [Quantr](https://gitlab.com/quantr)
 
 ## 臨時孤兒領養區
 有巴打建議我們接手無人 maintance 的 project，暫時存放
