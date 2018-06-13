@@ -21,7 +21,7 @@
 ## 其他分類
 * [OS](https://github.com/hkgos/awesome-hk-open-source#os)
 * [VS Code Extension](https://github.com/hkgos/awesome-hk-open-source#vscode-extension)
-* [Company Source](https://github.com/hkgos/company-source)
+* [Company Source](https://github.com/hkgos/awesome-hk-open-source#company-source)
 * [臨時孤兒領養區](https://github.com/hkgos/awesome-hk-open-source#%E8%87%A8%E6%99%82%E5%AD%A4%E5%85%92%E9%A0%98%E9%A4%8A%E5%8D%80)
 
 ## C++
