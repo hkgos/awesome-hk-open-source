@@ -20,6 +20,7 @@
 
 ## 其他分類
 * [OS](https://github.com/hkgos/awesome-hk-open-source#os)
+* [Bash](https://github.com/hkgos/awesome-hk-open-source#bash)
 * [VS Code Extension](https://github.com/hkgos/awesome-hk-open-source#vscode-extension)
 * [Company Source](https://github.com/hkgos/awesome-hk-open-source#company-source)
 * [臨時孤兒領養區](https://github.com/hkgos/awesome-hk-open-source#%E8%87%A8%E6%99%82%E5%AD%A4%E5%85%92%E9%A0%98%E9%A4%8A%E5%8D%80)
@@ -66,6 +67,7 @@
 
 ## Python
 * [Profile picture generator](https://github.com/09milk/profile_picture_generator) - 基於 Python 的工具, 可用於大量產生 random profile picture。[![GitHub stars](https://img.shields.io/github/stars/09milk/profile_picture_generator.svg?style=social)](https://github.com/09milk/profile_picture_generator/stargazers)
+* [McDonald's infinity Wi-Fi](https://github.com/GarbageCollections/McDonaldsFreeWifi) - 自動更新並無限次數使用McDonald's 的WiFi 服務。[![GitHub stars](https://img.shields.io/github/stars/GarbageCollections/McDonaldsFreeWifi.svg?style=social)](https://github.com/GarbageCollections/McDonaldsFreeWifi/stargazers)
 
 
 ## Ruby
@@ -74,6 +76,9 @@
 
 ## OS
 * [SillyOS](https://github.com/GarbageCollections/SillyOS) - 模組化作業系統的試作（開發中）[![GitHub stars](https://img.shields.io/github/stars/GarbageCollections/SillyOS.svg?style=social)](https://github.com/GarbageCollections/SillyOS/stargazers)
+
+## Bash
+* [Streaming-Proxy](https://github.com/hklcf/Streaming-Proxy) - 轉播任何串流影片。[![GitHub stars](https://img.shields.io/github/stars/hklcf/Streaming-Proxy.svg?style=social)](https://github.com/hklcf/Streaming-Proxy/stargazers)
 
 ## 輸入法
 * [快速倉頡輸入法](https://github.com/scj2000/scj-tables) - 快速倉頡輸入法是優化傳統倉頡輸入法的成果。它是編碼較短及規則簡單的其中一種輸入法。快速倉頡第六代除了沿用第五代的編碼方式外，加入了「速成」及「廣東拼音」輸入法的編碼，增設更多容錯碼及更多功能。[![GitHub stars](https://img.shields.io/github/stars/scj2000/scj-tables.svg?style=social)](https://github.com/scj2000/scj-tables/stargazers)
